@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenShortcutService", "PenShortcutService\PenShortcutService.csproj", "{7B3C0256-DC3E-4580-87E2-9ACF0B1F6BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenShortcutClient", "PenShortcutClient\PenShortcutClient.csproj", "{1326783A-5914-4E38-8E35-3660746AF005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B3C0256-DC3E-4580-87E2-9ACF0B1F6BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3C0256-DC3E-4580-87E2-9ACF0B1F6BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3C0256-DC3E-4580-87E2-9ACF0B1F6BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3C0256-DC3E-4580-87E2-9ACF0B1F6BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1326783A-5914-4E38-8E35-3660746AF005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1326783A-5914-4E38-8E35-3660746AF005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1326783A-5914-4E38-8E35-3660746AF005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1326783A-5914-4E38-8E35-3660746AF005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
